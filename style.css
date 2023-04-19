@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script');
+.count{
+    color: rgb(68, 255, 0);
+    text-shadow:2px 2px 4px rgb(254, 2, 233);
+    
+    font-size: 70px;
+    font-family: 'Bad Script', cursive;
+}
+.container{
+    /* height: 75vh; */
+    /* display: flex;
+    justify-content: center;
+    align-items: first baseline; */
+    margin-left: 100px;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+}
+
+body{    
+    background: url(edit_final.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+.image{
+    display: none;
+}
